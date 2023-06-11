@@ -1,4 +1,4 @@
-# course_project_1
+# datasciencecoursera
 hello-World
 
 My first repository!
